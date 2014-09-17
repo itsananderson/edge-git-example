@@ -1,0 +1,28 @@
+{
+  "name": "test-edge-git",
+  "version": "0.0.0",
+  "description": "Example usage of the edge-git module",
+  "main": "index.js",
+  "dependencies": {
+    "edge-git": "^0.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/itsananderson/edge-git-example.git"
+  },
+  "keywords": [
+    "git",
+    "edge",
+    "example"
+  ],
+  "author": "Will Anderson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/itsananderson/edge-git-example/issues"
+  },
+  "homepage": "https://github.com/itsananderson/edge-git-example"
+}
